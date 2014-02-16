@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="Nartists">
         <item quantity="one">1 artista</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> artistas</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> artistes</item>
     </plurals>
     <plurals name="Nalbums">
         <item quantity="one">1 álbum</item>
@@ -28,27 +28,27 @@
         <item quantity="other"><xliff:g id="count">%d</xliff:g> canciones</item>
     </plurals>
     <plurals name="Ngenres">
-        <item quantity="one">1 género</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> géneros</item>
+        <item quantity="one">1 xéneru</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> xéneros</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="one">1 canción se añadió a la lista.</item>
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> canciones se añadieron a la lista.</item>
+        <item quantity="one">amestóse 1 canción a la lista.</item>
+        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> canciones amestaes a la llista.</item>
     </plurals>
     <plurals name="NNNtracksfromplaylist">
-        <item quantity="one">1 canción se quitó de la lista.</item>
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> canciones se quitaron de la lista.</item>
+        <item quantity="one">desanicióse 1 canción de la llista.</item>
+        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> canciones desaniciaes de la llista.</item>
     </plurals>
     <plurals name="NNNtrackstoqueue">
-        <item quantity="one">1 canción se añadió a la cola.</item>
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> canciones se añadieron a la cola.</item>
+        <item quantity="one">amestóse 1 canción a la cola.</item>
+        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> canciones amestaes a la cola.</item>
     </plurals>
     <plurals name="NNNtrackstofavorites">
-        <item quantity="one">1 canción se añadió a favoritos.</item>
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> canciones se añadieron a favoritos.</item>
+        <item quantity="one">amestóse 1 canción a favoritos.</item>
+        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> canciones amestaes a favoritos.</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="one">1 canción fue eliminada.</item>
-        <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> canciones fueron eliminadas.</item>
+        <item quantity="one">desanicióse 1 canción.</item>
+        <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> canciones desaniciaes.</item>
     </plurals>
 </resources>
