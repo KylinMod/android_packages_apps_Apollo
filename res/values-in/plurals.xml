@@ -18,30 +18,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <plurals name="Nartists">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> 位演出者</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> artis</item>
   </plurals>
   <plurals name="Nalbums">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> 張專輯</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> album</item>
   </plurals>
   <plurals name="Nsongs">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> 首歌曲</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> lagu</item>
   </plurals>
   <plurals name="Ngenres">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> 種類型</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> genre</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
-    <item quantity="other">已新增 <xliff:g id="number" example="27">%d</xliff:g> 首歌曲到播放清單中。</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> lagu telah ditambahkan ke daftar putar.</item>
   </plurals>
   <plurals name="NNNtracksfromplaylist">
-    <item quantity="other">已從播放清單中移除 <xliff:g id="number" example="27">%d</xliff:g> 首歌。</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> lagu dihapus dari daftar putar.</item>
   </plurals>
   <plurals name="NNNtrackstoqueue">
-    <item quantity="other">已新增 <xliff:g id="number" example="27">%d</xliff:g> 首歌曲到隊列中。</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> lagu telah ditambahkan ke antrian.</item>
   </plurals>
   <plurals name="NNNtrackstofavorites">
-    <item quantity="other">已新增 <xliff:g id="number" example="27">%d</xliff:g> 首歌曲到最愛收藏中。</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> lagu telah ditambahkan ke Favorit.</item>
   </plurals>
   <plurals name="NNNtracksdeleted">
-    <item quantity="other">已刪除 <xliff:g id="songs_to_delete">%d</xliff:g> 首歌曲。</item>
+    <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> lagu telah dihapus.</item>
   </plurals>
 </resources>
